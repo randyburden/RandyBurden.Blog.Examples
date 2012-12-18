@@ -1,4 +1,4 @@
 RandyBurden.Blog.Examples
 =========================
 
-Examples from my blog
+Examples from my blog.
